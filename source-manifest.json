@@ -1,0 +1,18 @@
+{
+  "upstream": "https://github.com/pedrohcgs/claude-code-my-workflow",
+  "saved_on": "2026-10-06",
+  "sha256": {
+    ".gitignore": "f25bee73ea6d923e52d2109aa8a6ec4b24288af1d8ef95266eec982f094a9211",
+    "LICENSE": "2c4d743f95b94dcd4bddebede230035f61bd399754e36d1fc09f2630a592cbaf",
+    "README.md": "49e621f8874c1748505fea299fe698d4bf0ca58be2614dbd55bf9219ff961fca",
+    "skills/challenge/LICENSE": "2c4d743f95b94dcd4bddebede230035f61bd399754e36d1fc09f2630a592cbaf",
+    "skills/challenge/SKILL.md": "20713ca54a961e431a31ad31b425ede904bd7ad5dfb953ccce414cd70def27a3",
+    "skills/challenge/agents/openai.yaml": "d5a479885f5f94a8d874d78c702d3f582732ac0a0adfff88127a3a7b46bd5c06",
+    "skills/challenge/evals/marker.txt": "2eb6f0721405181763b47d7617dd774afa2fa9825242ca9bbe5cec4fd20fa8d5",
+    "skills/challenge/references/fork-catalog.md": "117fab678815c38a0bf27a69a789a57b82ec03c1fe8208702a01f2bb26c33fac",
+    "skills/challenge/references/sensitivity-statistics.md": "eb0889e7c42cf0adfefb81b0f2127f57f9e1ff12c682eac0ce12bb760e9f3ec9",
+    "skills/challenge/references/verification-ladder.md": "427ff0fa95508d1b6b6dd11c96f88170bf3120899077a3a274f846da7bcedbde",
+    "skills/challenge/upstream/SKILL.original.md": "aac4117e29ad36394bc7915c30f2ef7a0147a0eff6417c979bfc7739ae113c1b",
+    "skills/challenge/upstream/verification-ladder.md": "d30d667cdced983176a7a721e366ee8539a4d1913ff71bdc4320a3e5bb9fd313"
+  }
+}

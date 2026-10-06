@@ -1,0 +1,6 @@
+interface:
+  display_name: "Challenge：实证稳健性压力测试"
+  short_description: "以预先固定的规格网格检验实证结论，报告全部估计、失败及识别假设敏感性"
+  default_prompt: "Use $challenge on my analysis script with --forks 64; show the dry-run grid first."
+policy:
+  allow_implicit_invocation: false
